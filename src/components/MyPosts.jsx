@@ -7,7 +7,7 @@ import { MdEditDocument } from "react-icons/md";
 import { ImSpinner9 } from "react-icons/im";
 import { useNavigate } from "react-router-dom";
 import NavbarPage from "./Navbar";
-import Comment from "./comment";
+import Comment from "../components/Comment";
 
 function MyPosts() {
   const [posts, setPosts] = useState([]);
