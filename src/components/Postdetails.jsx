@@ -4,7 +4,6 @@ import axios from "axios";
 import { FaEye, FaHeart } from "react-icons/fa";
 import { FaDeleteLeft } from "react-icons/fa6";
 import { MdEditDocument } from "react-icons/md";
-import Comment from "./comment";
 import NavbarPage from "./Navbar";
 
 function PostDetails() {
